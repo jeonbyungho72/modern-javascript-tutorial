@@ -6,6 +6,7 @@
 
     1. [Hello, world!, 코드 구조, 엄격 모드](01.first-steps/01/basic.md)
     1. [변수와 상수, 자료형](01.first-steps/02/variable_and_types.md)
+    1. [alert, prompt, confirm을 이용한 상호작용](01.first-steps/03/alert_prompt_confirm.md)
 
 ## 출처
 
