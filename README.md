@@ -9,6 +9,7 @@
     1. [alert, prompt, confirm을 이용한 상호작용](01.first-steps/03/alert_prompt_confirm.md)
     1. [형변환](01.first-steps/04/type_conversions.md)
     1. [연산자](01.first-steps/05/operators.md)
+    1. [비교 연산자](01.first-steps/06/comparison.md)
 
 ## 출처
 
