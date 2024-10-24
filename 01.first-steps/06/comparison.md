@@ -69,10 +69,11 @@ console.log(empty == false); // false
 
     ```js
     console.log(null > 0); // false
-    console.log(null == 0); // false
-    console.log(null >= 0); // true
+    console.log(null == 0); // false, null과 숫자형 0간의 동등 연산
+    console.log(null >= 0); // true, null이 숫자형 0으로 형변환이 이루어지고 비교 연산이 진행됨
     console.log(null === 0); // false
     ```
+    
     `null`은 `<`, `>`, `<=`, `>=`와 같은 비교 연산 시 `null`이 숫자형 `0`으로 변환되고 `null`이나 `undefined`가 동등 연산 시 형 변환이 이루어지지 않습니다.
 
 - `undefined`를 다른 값과 비교해서는 안됩니다.
