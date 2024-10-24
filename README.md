@@ -12,6 +12,8 @@
     1. [조건문](01.first-steps/07/conditon.md)
     1. [반복문](01.first-steps/08/loop.md)
     1. [함수](01.first-steps/08/function.md)
+- 객체 기본
+    1. [객체](02.obejct-basics/01/object.md)
 
 ## 출처
 
