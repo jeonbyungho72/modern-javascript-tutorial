@@ -9,7 +9,8 @@
     1. [형변환](01.first-steps/04/type_conversions.md)
     1. [연산자](01.first-steps/05/operators.md)
     1. [비교 연산자](01.first-steps/06/comparison.md)
-    1. [조건문](01.first-steps/07/conditon_expression.md)
+    1. [조건문](01.first-steps/07/conditon.md)
+    1. [반복문](01.first-steps/08/loop.md)
     1. [함수](01.first-steps/08/function.md)
 
 ## 출처
