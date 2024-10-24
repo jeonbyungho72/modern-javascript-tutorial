@@ -134,5 +134,5 @@ console.log(a); // 3, 2와 "a"는 평가되었지만 버려지고 1 + 2만이 �
 let i = 2;
 let k = 3;
 const num = (i = 1, k -= 1, i + k);
-console.log(num);
+console.log(num); // 3
 ```
